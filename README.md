@@ -1,15 +1,5 @@
 # 100 Python Projects 🐍
 
-![](https://github.com/natnew/100-Python-Projects/blob/main/kelly-sikkema-YK0HPwWDJ1I-unsplash.jpg)<br>
-From Upsplash. Accessed January 2022.<br>
-
-100 Python Projects by natnew<br>
-*Beginner, Intermediate and advanced projects*<br>
-Part of the **100 Days Of Code** Challenge! 🙂
-
-If you want to learn about **Python**: https://docs.python.org/3/ <br>
-If you want to learn about **Github**: https://docs.github.com/en <br>
-I welcome any suggestions! ⭐ <br>
 
 > Created: October 2021 <br>
 > Completed: January 2022 <br>
@@ -158,10 +148,4 @@ Number | Project      | Resources
 - Natural Language Processing
 
 
-## CONTACT
-[Portfolio](https://github.com/natnew/NATASHA-/blob/main/README.md)<BR>
-[Linkedin](https://www.linkedin.com/in/natasha-newbold/)<br>
-[CV](https://www.linkedin.com/in/natasha-newbold/)<br>
-
-[![HitCount](http://hits.dwyl.com/natnew/natnew/100-Python-Projects.md.svg)](http://hits.dwyl.com/natnew/natnew/100-Python-Projects/edit/main/README.md) 
 
